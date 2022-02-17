@@ -1,0 +1,9 @@
+{
+	"name": "TestADFDemo131",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5e80fdc6-202c-45cc-bb30-e8a64f87e29a",
+		"tenantId": "e4e34038-ea1f-4882-b6e8-ccd776459ca0"
+	}
+}
